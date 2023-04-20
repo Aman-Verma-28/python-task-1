@@ -7,7 +7,6 @@
 - IDEA: if one list is empty, add the other list to the end of the new list
 - IDEA: return the new list
 
-## I have 
 
 # Python Task 1
 
