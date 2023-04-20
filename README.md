@@ -1,3 +1,14 @@
+# IDEA: (OPTIMISED IDEA - IN (N*LOGN))
+
+- IDEA: sort the lists by id
+- IDEA: use a while loop to iterate through both lists
+- IDEA: if the id's match, merge the dicts
+- IDEA: if the id's don't match, add the smaller id to the list
+- IDEA: if one list is empty, add the other list to the end of the new list
+- IDEA: return the new list
+
+## I have 
+
 # Python Task 1
 
 Complete the function in `main.py`, by merging the information from list_1 and list_2
